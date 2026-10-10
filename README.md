@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/banner_jornada_estudante.gif" alt="Minha jornada de aprendizado em tecnologia" width="100%" />
+  <img width="1200" height="480" alt="banner_jornada_estudante" src="https://github.com/user-attachments/assets/cd1f2803-b685-48ef-862c-7186c84d76b0" />
+
+  <!-- <img src="assets/banner_jornada_estudante.gif" alt="Minha jornada de aprendizado em tecnologia" width="100%" /> -->
 </p>
 
 <h1 align="center">Olá! Eu sou Alexandre Brito 👋</h1>
